@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="Arial_11_plain_outline_1798559992.png" value="p0" />
+    <entry key="Arial_15_plain_simple_1798559992.png" value="p1" />
+    <entry key="Arial_18_plain_outline_1798559992.png" value="p2" />
+    <entry key="Arial_18_plain_simple_1798559992.png" value="p3" />
+    <entry key="Arial_30_Regular_1317104934.png" value="p4" />
+    <entry key="BlambotCasual_15_plain_antialias_1798559992.png" value="p5" />
+    <entry key="BlambotCasual_19_Bold_320032581.png" value="p6" />
+    <entry key="BlambotCasual_22_bold_antialias_1798559992.png" value="p7" />
+    <entry key="BlambotCasual_22_plain_antialias_1798559992.png" value="p8" />
+    <entry key="BlambotCasual_24_Regular_320032581.png" value="p9" />
+    <entry key="BlambotCasual_26_Bold_320032581.png" value="p10" />
+    <entry key="BlambotCasual_28_plain_antialias_1798559992.png" value="p11" />
+    <entry key="BlambotCasual_30_Regular_320032581.png" value="p12" />
+    <entry key="BlambotCasual_30_bold_antialias_1712672539.png" value="p13" />
+    <entry key="BlambotCasual_33_Bold_1298056528.png" value="p14" />
+    <entry key="BlambotCasual_33_Bold_1317104934.png" value="p15" />
+    <entry key="BlambotCasual_33_Regular_677039772.png" value="p16" />
+    <entry key="BlambotCasual_40_Regular_677039772.png" value="p17" />
+    <entry key="BlambotCasual_44_Regular_1317104934.png" value="p18" />
+    <entry key="BlambotCasual_56_Regular_1317104934.png" value="p19" />
+    <entry key="BlambotCasual_70_Regular_412572182.png" value="p20" />
+    <entry key="CourierNew_18_bold_simple_1798559992.png" value="p21" />
+    <entry key="Verdana_11_bold_outline_1798559992.png" value="p22" />
+    <entry key="Verdana_16_bold_outline_1798559992.png" value="p23" />
+    <entry key="Verdana_22_plain_antialias_1798559992.png" value="p24" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

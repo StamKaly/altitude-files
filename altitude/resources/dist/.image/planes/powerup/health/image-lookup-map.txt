@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="glow.png" value="p0" />
+    <entry key="healthpack_0000.png" value="p0" />
+    <entry key="healthpack_0001.png" value="p0" />
+    <entry key="healthpack_0002.png" value="p0" />
+    <entry key="healthpack_0003.png" value="p0" />
+    <entry key="healthpack_0004.png" value="p0" />
+    <entry key="healthpack_0005.png" value="p0" />
+    <entry key="healthpack_0006.png" value="p0" />
+    <entry key="healthpack_0007.png" value="p0" />
+    <entry key="healthpack_0008.png" value="p0" />
+    <entry key="healthpack_0009.png" value="p0" />
+    <entry key="healthpack_0010.png" value="p0" />
+    <entry key="healthpack_0011.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

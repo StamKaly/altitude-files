@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelaunchConfig>
+  <version major="0" minor="0" micro="370" />
+  <resources>
+    <Resource path="lib/commons-codec-1.3.jar" size="46725" crc32="1856893722" />
+    <Resource path="lib/commons-httpclient-3.1.jar" size="305001" crc32="1640872803" />
+    <Resource path="lib/commons-logging-1.1.1.jar" size="60841" crc32="2200871701" />
+    <Resource path="lib/forms-1.0.7.jar" size="86828" crc32="1586278441" />
+    <Resource path="lib/jinput.jar" size="214859" crc32="2415061135" />
+    <Resource path="lib/log4j-1.2.15.jar" size="391834" crc32="2197124025" />
+    <Resource path="lib/looks-2.1.2.jar" size="408906" crc32="1207332453" />
+    <Resource path="lib/lwjgl.jar" size="1013820" crc32="2787861867" />
+    <Resource path="lib/lwjgl_util.jar" size="173887" crc32="262638096" />
+    <Resource path="lib/swinglabs-0.8.0.jar" size="790213" crc32="3253209531" />
+    <Resource path="native/OpenAL32.dll" size="390144" crc32="806009308" />
+    <Resource path="native/OpenAL64.dll" size="382464" crc32="655360787" />
+    <Resource path="native/duath.speex.dll" size="241664" crc32="690972704" />
+    <Resource path="native/jinput-dx8.dll" size="61952" crc32="982956290" />
+    <Resource path="native/jinput-dx8_64.dll" size="65024" crc32="4269570862" />
+    <Resource path="native/jinput-raw.dll" size="59392" crc32="2417364268" />
+    <Resource path="native/jinput-raw_64.dll" size="62464" crc32="4287683059" />
+    <Resource path="native/libduath.speex.jnilib" size="19860" crc32="1525890797" />
+    <Resource path="native/libduath.speex_i386.so" size="12604" crc32="3111322632" />
+    <Resource path="native/libduath.speex_x86_64.so" size="15821" crc32="2386904830" />
+    <Resource path="native/libjinput-linux.so" size="13824" crc32="628331305" />
+    <Resource path="native/libjinput-linux64.so" size="14512" crc32="297678034" />
+    <Resource path="native/libjinput-osx.jnilib" size="64608" crc32="1566069404" />
+    <Resource path="native/liblwjgl.jnilib" size="953928" crc32="2995960814" />
+    <Resource path="native/liblwjgl.so" size="378736" crc32="4244708977" />
+    <Resource path="native/liblwjgl64.so" size="453576" crc32="1875889275" />
+    <Resource path="native/libopenal.so" size="368392" crc32="2273924919" />
+    <Resource path="native/libopenal64.so" size="404085" crc32="3520622588" />
+    <Resource path="native/libspeex.dylib" size="230632" crc32="2300073551" />
+    <Resource path="native/libspeex_i386.so" size="215937" crc32="3814125974" />
+    <Resource path="native/libspeex_x86_64.so" size="279807" crc32="65066828" />
+    <Resource path="native/libsteam.jni.jnilib" size="85184" crc32="4135504983" />
+    <Resource path="native/libsteam.jni.so" size="105662" crc32="1055800968" />
+    <Resource path="native/libsteam_api.dylib" size="129348" crc32="2011593519" />
+    <Resource path="native/libsteam_api.so" size="78998" crc32="999991285" />
+    <Resource path="native/lwjgl.dll" size="298496" crc32="4135549495" />
+    <Resource path="native/lwjgl64.dll" size="310272" crc32="1007483769" />
+    <Resource path="native/openal.dylib" size="731648" crc32="4071152873" />
+    <Resource path="native/steam.jni.dll" size="168960" crc32="3656514493" />
+    <Resource path="native/steam_api.dll" size="106408" crc32="391862275" />
+  </resources>
+</RelaunchConfig>
+

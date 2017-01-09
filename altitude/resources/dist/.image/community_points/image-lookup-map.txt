@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="biplane_checker.png" value="p0" />
+    <entry key="biplane_flame.png" value="p1" />
+    <entry key="biplane_no_skin.png" value="p1" />
+    <entry key="biplane_santa.png" value="p0" />
+    <entry key="biplane_shark.png" value="p1" />
+    <entry key="biplane_zebra.png" value="p1" />
+    <entry key="bomber_checker.png" value="p0" />
+    <entry key="bomber_flame.png" value="p0" />
+    <entry key="bomber_no_skin.png" value="p0" />
+    <entry key="bomber_santa.png" value="p0" />
+    <entry key="bomber_shark.png" value="p1" />
+    <entry key="bomber_zebra.png" value="p1" />
+    <entry key="explodet_checker.png" value="p0" />
+    <entry key="explodet_flame.png" value="p0" />
+    <entry key="explodet_no_skin.png" value="p0" />
+    <entry key="explodet_santa.png" value="p0" />
+    <entry key="explodet_shark.png" value="p0" />
+    <entry key="explodet_zebra.png" value="p0" />
+    <entry key="loopy_checker.png" value="p0" />
+    <entry key="loopy_flame.png" value="p0" />
+    <entry key="loopy_no_skin.png" value="p0" />
+    <entry key="loopy_santa.png" value="p0" />
+    <entry key="loopy_shark.png" value="p0" />
+    <entry key="loopy_zebra.png" value="p0" />
+    <entry key="miranda_checker.png" value="p1" />
+    <entry key="miranda_flame.png" value="p1" />
+    <entry key="miranda_no_skin.png" value="p1" />
+    <entry key="miranda_santa.png" value="p0" />
+    <entry key="miranda_shark.png" value="p1" />
+    <entry key="miranda_zebra.png" value="p1" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

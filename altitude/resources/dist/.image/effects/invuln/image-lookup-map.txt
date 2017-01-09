@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="invuln_merged_0000.png" value="p0" />
+    <entry key="invuln_merged_0001.png" value="p0" />
+    <entry key="invuln_merged_0002.png" value="p0" />
+    <entry key="invuln_merged_0003.png" value="p0" />
+    <entry key="invuln_merged_0004.png" value="p0" />
+    <entry key="invuln_merged_0005.png" value="p0" />
+    <entry key="invuln_merged_0006.png" value="p0" />
+    <entry key="invuln_merged_0007.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

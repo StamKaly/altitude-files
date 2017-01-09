@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="link.png" value="p0" />
+    <entry key="mine.png" value="p0" />
+    <entry key="mine_tracking_pulse.png" value="p0" />
+    <entry key="rocket.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

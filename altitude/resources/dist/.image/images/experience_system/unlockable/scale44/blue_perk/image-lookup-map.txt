@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ace_instincts.png" value="p0" />
+    <entry key="no_blue_perk.png" value="p0" />
+    <entry key="reverse_thrust.png" value="p0" />
+    <entry key="superburner.png" value="p0" />
+    <entry key="turbocharger.png" value="p0" />
+    <entry key="ultracapacitor.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

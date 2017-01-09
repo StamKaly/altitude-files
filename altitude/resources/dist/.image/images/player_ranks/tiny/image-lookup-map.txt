@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="1.png" value="p0" />
+    <entry key="10.png" value="p0" />
+    <entry key="11.png" value="p0" />
+    <entry key="12.png" value="p0" />
+    <entry key="13.png" value="p0" />
+    <entry key="14.png" value="p0" />
+    <entry key="15.png" value="p0" />
+    <entry key="16.png" value="p0" />
+    <entry key="17.png" value="p0" />
+    <entry key="18.png" value="p0" />
+    <entry key="2.png" value="p0" />
+    <entry key="3.png" value="p0" />
+    <entry key="4.png" value="p0" />
+    <entry key="5.png" value="p0" />
+    <entry key="6.png" value="p0" />
+    <entry key="7.png" value="p0" />
+    <entry key="8.png" value="p0" />
+    <entry key="9.png" value="p0" />
+    <entry key="ace1.png" value="p0" />
+    <entry key="ace10.png" value="p0" />
+    <entry key="ace2.png" value="p0" />
+    <entry key="ace3.png" value="p0" />
+    <entry key="ace4.png" value="p0" />
+    <entry key="ace5.png" value="p0" />
+    <entry key="ace6.png" value="p0" />
+    <entry key="ace7.png" value="p0" />
+    <entry key="ace8.png" value="p0" />
+    <entry key="ace9.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

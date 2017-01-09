@@ -1,0 +1,10 @@
+#install4j response file for Altitude 1.1
+#Tue Jan 10 01:01:23 EET 2017
+createDesktopLinkAction$Boolean=false
+executeLauncherAction$Boolean=false
+sys.programGroup.linkDir=/usr/local/bin
+sys.languageId=en
+sys.installationDir=/home/stam/tolis
+sys.programGroup.enabled$Boolean=false
+sys.programGroup.allUsers$Boolean=true
+sys.programGroup.name=Altitude

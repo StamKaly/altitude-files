@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="bottom.png" value="p0" />
+    <entry key="bottom_decal_1.png" value="p0" />
+    <entry key="bottom_decal_2.png" value="p0" />
+    <entry key="bottom_left.png" value="p0" />
+    <entry key="left.png" value="p0" />
+    <entry key="left_right_decal_1.png" value="p0" />
+    <entry key="left_right_decal_2.png" value="p0" />
+    <entry key="right.png" value="p0" />
+    <entry key="rivet.png" value="p0" />
+    <entry key="top.png" value="p0" />
+    <entry key="top_decal_1.png" value="p0" />
+    <entry key="top_decal_2.png" value="p0" />
+    <entry key="top_left.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

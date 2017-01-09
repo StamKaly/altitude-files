@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="account_info_icon.png" value="p0" />
+    <entry key="challenge_icon.png" value="p0" />
+    <entry key="change_user_icon.png" value="p0" />
+    <entry key="disconnect_icon.png" value="p0" />
+    <entry key="exit_icon.png" value="p0" />
+    <entry key="friends_icon.png" value="p0" />
+    <entry key="host_server_icon.png" value="p0" />
+    <entry key="options_icon.png" value="p0" />
+    <entry key="play_icon.png" value="p0" />
+    <entry key="tutorial_icon.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="0_128_5_0000.png" value="p0" />
+    <entry key="115_0_214_0000.png" value="p1" />
+    <entry key="171_5_13_0000.png" value="p2" />
+    <entry key="230_118_118_0000.png" value="p3" />
+    <entry key="239_95_0_0000.png" value="p4" />
+    <entry key="240_166_20_0000.png" value="p5" />
+    <entry key="30_58_206_0000.png" value="p6" />
+    <entry key="93_138_168_0000.png" value="p7" />
+    <entry key="98_38_0_0000.png" value="p8" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="acid_bomb.png" value="p0" />
+    <entry key="bombs.png" value="p0" />
+    <entry key="director.png" value="p0" />
+    <entry key="dogfighter.png" value="p0" />
+    <entry key="double_fire.png" value="p0" />
+    <entry key="flak_tailgun.png" value="p0" />
+    <entry key="heavy_cannon.png" value="p0" />
+    <entry key="laser.png" value="p0" />
+    <entry key="laser_simple.png" value="p0" />
+    <entry key="no_red_perk.png" value="p0" />
+    <entry key="recoilless_gun.png" value="p0" />
+    <entry key="remote_mine.png" value="p0" />
+    <entry key="suppressor.png" value="p0" />
+    <entry key="thermobarics.png" value="p0" />
+    <entry key="time_anchor.png" value="p0" />
+    <entry key="tracker.png" value="p0" />
+    <entry key="trickster.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ball_gliderpark_apeg.png" value="p0" />
+    <entry key="ball_powder_apeg.png" value="p1" />
+    <entry key="ffa_channelpark_apeg.png" value="p2" />
+    <entry key="ffa_trainingmayhem_apeg.png" value="p3" />
+    <entry key="level_complete.png" value="p6" />
+    <entry key="no_map_thumbnail.png" value="p6" />
+    <entry key="tbd_core_apeg.png" value="p4" />
+    <entry key="tutorial_apeg.png" value="p5" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

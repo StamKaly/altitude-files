@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="beam_texture.png" value="p1" />
+    <entry key="charge_shot.png" value="p0" />
+    <entry key="dust.png" value="p0" />
+    <entry key="electric_0.png" value="p0" />
+    <entry key="electric_1.png" value="p0" />
+    <entry key="electric_2.png" value="p0" />
+    <entry key="ray.png" value="p0" />
+    <entry key="teleport_shell.png" value="p0" />
+    <entry key="time_anchor_arrow.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

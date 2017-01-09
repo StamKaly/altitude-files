@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="config_random_blue.png" value="p0" />
+    <entry key="config_random_green.png" value="p0" />
+    <entry key="config_random_red.png" value="p0" />
+    <entry key="missing_blue.png" value="p0" />
+    <entry key="missing_green.png" value="p0" />
+    <entry key="missing_red.png" value="p0" />
+    <entry key="random_blue.png" value="p0" />
+    <entry key="random_green.png" value="p0" />
+    <entry key="random_red.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

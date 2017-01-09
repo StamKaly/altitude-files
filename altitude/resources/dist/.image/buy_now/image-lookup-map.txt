@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="buy_now_apeg.png" value="p1" />
+    <entry key="buy_now_hover_apeg.png" value="p2" />
+    <entry key="demo_expired_apeg.png" value="p0" />
+    <entry key="modes_ball_football_apeg.png" value="p3" />
+    <entry key="modes_core_tdm_apeg.png" value="p4" />
+    <entry key="modes_tbd_middleground_apeg.png" value="p5" />
+    <entry key="modes_transition_apeg.png" value="p6" />
+    <entry key="perks_lostcity_apeg.png" value="p7" />
+    <entry key="perks_mayhem_apeg.png" value="p8" />
+    <entry key="perks_snow_apeg.png" value="p9" />
+    <entry key="perks_transition_apeg.png" value="p10" />
+    <entry key="planes_biplane_grotto_apeg.png" value="p11" />
+    <entry key="planes_bomber_maze_apeg.png" value="p12" />
+    <entry key="planes_explodet_darkwar_apeg.png" value="p13" />
+    <entry key="planes_miranda_asteroids_apeg.png" value="p14" />
+    <entry key="planes_transition_apeg.png" value="p15" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

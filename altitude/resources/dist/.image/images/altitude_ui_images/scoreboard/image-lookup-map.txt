@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="arrow_12x12.png" value="p0" />
+    <entry key="arrow_12x12_pressed.png" value="p0" />
+    <entry key="dead.png" value="p0" />
+    <entry key="friend.png" value="p0" />
+    <entry key="friend_12x12.png" value="p0" />
+    <entry key="friend_12x12_pressed.png" value="p0" />
+    <entry key="muted.png" value="p0" />
+    <entry key="muted_player.png" value="p0" />
+    <entry key="muted_player_pressed.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

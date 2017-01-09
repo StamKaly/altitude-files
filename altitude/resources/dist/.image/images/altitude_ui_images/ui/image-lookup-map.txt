@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image-lookup-map.txt>
+  <pack-path-by-image-path>
+    <entry key="ErrorIcon.png" value="p0" />
+    <entry key="ErrorX.png" value="p0" />
+    <entry key="ErrorXSmall.png" value="p0" />
+    <entry key="InformationIcon.png" value="p0" />
+    <entry key="game128x128.png" value="p0" />
+    <entry key="tab_left.png" value="p0" />
+    <entry key="tab_middle.png" value="p0" />
+    <entry key="tab_right.png" value="p0" />
+  </pack-path-by-image-path>
+</image-lookup-map.txt>
+

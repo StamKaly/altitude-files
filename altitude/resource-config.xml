@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResourceConfig>
+  <version major="0" minor="0" micro="370" />
+  <resources>
+    <Resource path="pack_10b493ff" size="252237" crc32="3123552621" />
+    <Resource path="pack_182d826f" size="54306" crc32="44412012" />
+    <Resource path="pack_1932c231" size="270896" crc32="1476483387" />
+    <Resource path="pack_1b9f7a29" size="610668" crc32="2896534042" />
+    <Resource path="pack_1eb98f77" size="241781" crc32="4047891046" />
+    <Resource path="pack_22ed6989" size="761201" crc32="1523899505" />
+    <Resource path="pack_2376d77b" size="930896" crc32="3007981212" />
+    <Resource path="pack_24796185" size="1305084" crc32="2943559141" />
+    <Resource path="pack_255f842b" size="202477" crc32="1510036006" />
+    <Resource path="pack_2982a988" size="1967635" crc32="1162512972" />
+    <Resource path="pack_3579745c" size="53944" crc32="1434336180" />
+    <Resource path="pack_37ee3ac2" size="178716" crc32="1273638012" />
+    <Resource path="pack_3bb57d3c" size="1079" crc32="864503961" />
+    <Resource path="pack_3d1def62" size="78428" crc32="2725109747" />
+    <Resource path="pack_3f2f87c1" size="973579" crc32="4185356117" />
+    <Resource path="pack_4a4b45f0" size="156881" crc32="2118907709" />
+    <Resource path="pack_4e7dd1c4" size="416429" crc32="2375863090" />
+    <Resource path="pack_4f12eb8f" size="2067153" crc32="2024094274" />
+    <Resource path="pack_62d63bca" size="588864" crc32="4182996447" />
+    <Resource path="pack_6cfae356" size="431659" crc32="2089316403" />
+    <Resource path="pack_7323304b" size="62120" crc32="975515186" />
+    <Resource path="pack_83f98c11" size="242609" crc32="3629302757" />
+    <Resource path="pack_840a63d7" size="213174" crc32="922533470" />
+    <Resource path="pack_86a06bc4" size="177125" crc32="3569360192" />
+    <Resource path="pack_8831050b" size="443941" crc32="4163575568" />
+    <Resource path="pack_8f3f68c5" size="450" crc32="2177437398" />
+    <Resource path="pack_91b156bb" size="99183" crc32="3707957843" />
+    <Resource path="pack_926222bb" size="6190" crc32="312946125" />
+    <Resource path="pack_93a3ead3" size="399235" crc32="2535764098" />
+    <Resource path="pack_9611ab2b" size="801736" crc32="2779054890" />
+    <Resource path="pack_96528f05" size="745797" crc32="1445495310" />
+    <Resource path="pack_96cfb68a" size="796020" crc32="3903038699" />
+    <Resource path="pack_99532773" size="292465" crc32="281301625" />
+    <Resource path="pack_9f8bc3d" size="341026" crc32="582085318" />
+    <Resource path="pack_a009f967" size="46045" crc32="2816865311" />
+    <Resource path="pack_a61e31fd" size="422348" crc32="3427889999" />
+    <Resource path="pack_abe148de" size="318419" crc32="2667152056" />
+    <Resource path="pack_b035092e" size="654851" crc32="4086610238" />
+    <Resource path="pack_b713173b" size="820579" crc32="2460377428" />
+    <Resource path="pack_b9ada374" size="214639" crc32="2521247108" />
+    <Resource path="pack_c22ba246" size="1740646" crc32="3575403960" />
+    <Resource path="pack_c277d50a" size="299938" crc32="1830106406" />
+    <Resource path="pack_c303815b" size="99396" crc32="71305298" />
+    <Resource path="pack_c675ecb5" size="619801" crc32="2146395443" />
+    <Resource path="pack_c8c6220" size="13215" crc32="3149227925" />
+    <Resource path="pack_cc4a0f84" size="156459" crc32="3277905789" />
+    <Resource path="pack_cf9ac383" size="553735" crc32="1023700082" />
+    <Resource path="pack_d03c6c91" size="623484" crc32="2515545983" />
+    <Resource path="pack_d6d37c69" size="24211" crc32="308059539" />
+    <Resource path="pack_dc1dd108" size="2346" crc32="792244983" />
+    <Resource path="pack_e1e73138" size="693902" crc32="584196919" />
+    <Resource path="pack_e295f4d5" size="1637414" crc32="744702616" />
+    <Resource path="pack_e31ae63b" size="23837" crc32="3736203913" />
+    <Resource path="pack_e946a2e7" size="18068" crc32="91794561" />
+    <Resource path="pack_ed0d80ae" size="272759" crc32="1969895394" />
+    <Resource path="pack_ef002708" size="23184" crc32="162466154" />
+    <Resource path="pack_f9afb6f5" size="239251" crc32="1834069315" />
+    <Resource path="pack_fe737175" size="414477" crc32="467136968" />
+  </resources>
+</ResourceConfig>
+
